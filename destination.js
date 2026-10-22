@@ -192,7 +192,7 @@ function renderDestination(item) {
   document.getElementById("destination-content").hidden = false;
   document.title = `${item.title} | Amigo Travel Logistics & Tourism`;
 
-  const canonicalUrl = new URL("destination.html", "https://www.amigotravellogistics.com/");
+  const canonicalUrl = new URL("destination.html", "https://www.amigotravellogistics.org/");
   canonicalUrl.searchParams.set("place", item.slug);
   document.querySelector('link[rel="canonical"]')?.setAttribute("href", canonicalUrl.href);
   document.querySelector('meta[property="og:url"]')?.setAttribute("content", canonicalUrl.href);

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.amigotravellogistics.com/sitemap.xml
+Sitemap: https://www.amigotravellogistics.org/sitemap.xml
