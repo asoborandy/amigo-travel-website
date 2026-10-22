@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" role="img" aria-labelledby="title desc">
+  <title id="title">Shipping and cargo along the African coast</title>
+  <desc id="desc">Illustration of a container ship carrying goods across a blue sea toward the African coast.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#dff3fb"/>
+      <stop offset="1" stop-color="#f7f4e8"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#2d9bc3"/>
+      <stop offset="1" stop-color="#0877bd"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="460" fill="url(#sky)"/>
+  <circle cx="634" cy="105" r="54" fill="#f6ad3c" opacity=".9"/>
+  <path d="M0 278c137-20 241-32 376-2 117 26 230 24 424-6v190H0z" fill="url(#sea)"/>
+  <path d="M0 322c109-21 206-17 299 4m75 6c84 18 152 15 227-3m65-7c54 4 95 0 134-9" fill="none" stroke="#9de1e9" stroke-linecap="round" stroke-width="5" opacity=".7"/>
+  <path d="M553 268c47-60 99-82 157-70 34 7 63 29 90 61v42H553z" fill="#8eb080"/>
+  <path d="M43 268h527l-60 104H153z" fill="#0b456f"/>
+  <path d="M78 269h462l-18 32H93z" fill="#f28a00"/>
+  <path d="M139 171h95v93h-95z" fill="#0877bd"/>
+  <path d="M240 146h97v118h-97z" fill="#f28a00"/>
+  <path d="M342 176h92v88h-92z" fill="#176b8f"/>
+  <path d="M440 157h90v107h-90z" fill="#e7a539"/>
+  <path d="M164 186v61m25-61v61m25-61v61m50-78v78m26-78v78m26-78v78m51-57v57m25-57v57m50-88v88m25-88v88" stroke="#fff" stroke-width="4" opacity=".42"/>
+  <path d="M380 145h38v-64h39v64h37" fill="none" stroke="#0b456f" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <path d="M405 79h36m-18 0V57" fill="none" stroke="#f28a00" stroke-linecap="round" stroke-width="6"/>
+  <path d="M25 405c49-16 99-16 150 0m60 0c54-17 107-17 160 0m69 0c65-18 131-18 196 0m51 0c31-10 59-11 88-4" fill="none" stroke="#bcebf0" stroke-linecap="round" stroke-width="5" opacity=".8"/>
+</svg>
