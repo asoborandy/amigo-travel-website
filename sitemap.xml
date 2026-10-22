@@ -96,4 +96,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://www.amigotravellogistics.org/privacy.html</loc>
+    <lastmod>2026-10-22</lastmod>
+  </url>
 </urlset>
